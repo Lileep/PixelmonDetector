@@ -30,7 +30,7 @@ Although you can download this mod in the releases page, Lileep would appreciate
 
 # Instructions
 
-Visit the wiki in this repo to get more info! :>
+Visit the (wiki)[https://github.com/Lileep/PixelmonDetector/wiki] in this repo to get more info! :>
 
 # For server owners
 
