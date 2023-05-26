@@ -27,7 +27,7 @@ Anyway, enjoy it! :>
 
 Although you can download this mod in the releases page, Lileep would appreciate it if you could click the adfoc.us download link:
 
-**[Click here to download on adfoc.us](http://adfoc.us/79708186543987)**
+**[Click here to download on adfoc.us](http://adfoc.us/79708188861408)**
 
 # Instructions
 
