@@ -1,9 +1,10 @@
 ![logo](https://github.com/Lileep/PixelmonDetector/blob/main/logo.png)
 
-<a href="http://adfoc.us/79708186543987"><img src="https://img.shields.io/badge/Download%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<a href="http://adfoc.us/79708188861408"><img src="https://img.shields.io/badge/Download%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
 <a href="https://www.patreon.com/Lileep"><img src="https://img.shields.io/badge/Support-Patreon-ff5733" alt="Patreon"></a>
 <a href="https://afdian.net/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
 <img src="https://img.shields.io/badge/Available%20for-MC%201.16.5-33ff99" alt="Supported Versions">
+<a href="https://discord.gg/kmmUKKSx9V"><img src="https://img.shields.io/badge/Community-Discord(unofficial)-9370db" alt="Discord"></a>
 
 # Pixelmon Detector
 
