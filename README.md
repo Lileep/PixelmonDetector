@@ -1,6 +1,6 @@
 ![logo](https://github.com/Lileep/PixelmonDetector/blob/main/logo.png)
 
-<a href="http://adfoc.us/79708196908884"><img src="https://img.shields.io/badge/Download%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<a href="http://adfoc.us/79708197609469"><img src="https://img.shields.io/badge/Download%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
 <a href="https://www.patreon.com/Lileep"><img src="https://img.shields.io/badge/Support-Patreon-ff5733" alt="Patreon"></a>
 <a href="https://afdian.net/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
 <img src="https://img.shields.io/badge/Available%20for-MC%201.16.5-33ff99" alt="Supported Versions">
@@ -28,7 +28,7 @@ Anyway, enjoy it! :>
 
 Although you can download this mod in the releases page, Lileep would appreciate it if you could click the adfoc.us download link:
 
-**[Click here to download on adfoc.us](http://adfoc.us/79708196908884)**
+**[Click here to download on adfoc.us](http://adfoc.us/79708197609469)**
 
 # Instructions
 
