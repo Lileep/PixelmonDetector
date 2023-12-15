@@ -50,7 +50,7 @@ I haven't implemented any anti anti-cheat measures in this mod, so if you are a 
 
 * Forge 1.16.5-36.2.39+ (Recommended. Use lower versions at your own risk)
 
-* Pixelmon Reforged 9.1.0+
+* Pixelmon Reforged 9.1.9+
 
 # Support
 
