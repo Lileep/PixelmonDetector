@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/Available%20for-MC%201.16.5-33ff99" alt="Supported Versions">
 <a href="https://discord.gg/kmmUKKSx9V"><img src="https://img.shields.io/badge/Community-Discord(unofficial)-9370db" alt="Discord"></a>
 
+<a href="https://www.buymeacoffee.com/lileep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Lileep a Pokéblock&emoji=🍫&slug=lileep&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 # Pixelmon Detector
 
 A safe, efficient, lightweight and server owner friendly high version Pixel Radar.
