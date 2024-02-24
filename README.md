@@ -1,9 +1,13 @@
 ![logo](https://github.com/Lileep/PixelmonDetector/blob/main/logo.png)
 
-<a href="http://adfoc.us/79708198985454"><img src="https://img.shields.io/badge/Download%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<a href="http://adfoc.us/79708199266338"><img src="https://img.shields.io/badge/Download%201.16.5%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<a href="http://adfoc.us/7970811"><img src="https://img.shields.io/badge/Download%201.20.2%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<img src="https://img.shields.io/badge/Available%20for-MC%201.16.5%20&%201.20.2-33ff99" alt="Supported Versions">
+
+---
+
 <a href="https://www.patreon.com/Lileep"><img src="https://img.shields.io/badge/Support-Patreon-ff5733" alt="Patreon"></a>
 <a href="https://afdian.net/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
-<img src="https://img.shields.io/badge/Available%20for-MC%201.16.5-33ff99" alt="Supported Versions">
 <a href="https://discord.gg/kmmUKKSx9V"><img src="https://img.shields.io/badge/Community-Discord(unofficial)-9370db" alt="Discord"></a>
 
 <a href="https://www.buymeacoffee.com/lileep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Lileep a Pokéblock&emoji=🍫&slug=lileep&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -28,9 +32,7 @@ Anyway, enjoy it! :>
 
 # Download
 
-Although you can download this mod in the releases page, Lileep would appreciate it if you could click the oc.us download link:
-
-**[Click here to download on adfoc.us](http://adfoc.us/79708198985454)**
+Although you can download this mod in the releases page, Lileep would appreciate it if you could click the adfoc.us download button above :)
 
 # Instructions
 
@@ -48,17 +50,18 @@ I haven't implemented any anti anti-cheat measures in this mod, so if you are a 
 
 # Dependencies
 
-* Minecraft 1.16.5
+* Minecraft 1.16.5 | 1.20.2
 
-* Forge 1.16.5-36.2.39+ (Recommended. Use lower versions at your own risk)
+* Forge 1.16.5-36.2.39+ | 1.20.2-48.0.1 (Recommended. Use lower versions at your own risk)
 
-* Pixelmon Reforged 9.1.9+
+* Pixelmon Reforged 9.1.9+ | 9.2.6+
 
 # Support
 
 If you love my work and would like to support Lileep, you may buy a Pokéblock for me on Patreon. Lileep can give you nothing but a free big hug. XD
 
 [Support Me On Patreon](https://www.patreon.com/Lileep)
+[Buy Me A Coffee](https://www.buymeacoffee.com/lileep)
 
 A nice guy told me that many people prefer to use afdian, so I created an account there and post the same thing with a translation from google.
 
