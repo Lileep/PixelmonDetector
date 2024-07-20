@@ -7,7 +7,7 @@
 ---
 
 <a href="https://www.patreon.com/Lileep"><img src="https://img.shields.io/badge/Support-Patreon-ff5733" alt="Patreon"></a>
-<a href="https://afdian.net/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
+<a href="https://afdian.com/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
 <a href="https://discord.gg/kmmUKKSx9V"><img src="https://img.shields.io/badge/Community-Discord(unofficial)-9370db" alt="Discord"></a>
 
 <a href="https://www.buymeacoffee.com/lileep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Lileep a Pokéblock&emoji=🍫&slug=lileep&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -66,6 +66,6 @@ If you love my work and would like to support Lileep, you may buy a Pokéblock f
 
 A nice guy told me that many people prefer to use afdian, so I created an account there and post the same thing with a translation from google.
 
-[Support Me On Afdian](https://afdian.net/a/Lileep)
+[Support Me On Afdian](https://afdian.com/a/Lileep)
 
 For issue reporting, feel free to use the Issues section on github.
