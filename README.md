@@ -1,7 +1,7 @@
 ![logo](https://github.com/Lileep/PixelmonDetector/blob/main/logo.png)
 
 <a href="http://adfoc.us/797081104771911"><img src="https://img.shields.io/badge/Download%201.16.5%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
-<a href="http://adfoc.us/797081105507659"><img src="https://img.shields.io/badge/Download%201.20.2%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<a href="http://adfoc.us/797081105507660"><img src="https://img.shields.io/badge/Download%201.20.2%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
 <img src="https://img.shields.io/badge/Available%20for-MC%201.16.5%20&%201.20.2-33ff99" alt="Supported Versions">
 
 ---
