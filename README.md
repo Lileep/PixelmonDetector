@@ -53,7 +53,7 @@ I haven't implemented any anti anti-cheat measures in this mod, so if you are a 
 
 * Minecraft 1.16.5 | 1.20.2 | 1.21.1
 
-* Forge 1.16.5-36.2.39+ | 1.20.2-48.1.0+ | NeoForge 21.1.176 (Recommended. Use lower versions at your own risk)
+* Forge 1.16.5-36.2.39+ | 1.20.2-48.1.0+ | NeoForge 21.1.176+ (Recommended. Use lower versions at your own risk)
 
 * Pixelmon Reforged 9.1.9+ | 9.2.6+ | 9.3.8+
 
