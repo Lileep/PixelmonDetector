@@ -2,7 +2,8 @@
 
 <a href="http://adfoc.us/797081104771911"><img src="https://img.shields.io/badge/Download%201.16.5%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
 <a href="http://adfoc.us/797081105507660"><img src="https://img.shields.io/badge/Download%201.20.2%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
-<img src="https://img.shields.io/badge/Available%20for-MC%201.16.5%20&%201.20.2-33ff99" alt="Supported Versions">
+<a href="http://adfoc.us/797081107738134"><img src="https://img.shields.io/badge/Download%201.21.1%20on-adfoc.us-ffff66" alt="adfoc.us"></a>
+<img src="https://img.shields.io/badge/Available%20for-MC%201.16.5%20&%201.20.2%20&%201.21.1-33ff99" alt="Supported Versions">
 
 ---
 
@@ -10,7 +11,7 @@
 <a href="https://afdian.com/a/Lileep"><img src="https://img.shields.io/badge/Support-Afdian-cc99ff" alt="Afdian"></a>
 <a href="https://discord.gg/kmmUKKSx9V"><img src="https://img.shields.io/badge/Community-Discord(unofficial)-9370db" alt="Discord"></a>
 
-<a href="https://www.buymeacoffee.com/lileep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Lileep a Pokéblock&emoji=🍫&slug=lileep&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/lileep"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Lileep a pokéblock&emoji=🍫&slug=lileep&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 # Pixelmon Detector
 
@@ -50,11 +51,11 @@ I haven't implemented any anti anti-cheat measures in this mod, so if you are a 
 
 # Dependencies
 
-* Minecraft 1.16.5 | 1.20.2
+* Minecraft 1.16.5 | 1.20.2 | 1.21.1
 
-* Forge 1.16.5-36.2.39+ | 1.20.2-48.1.0+ (Recommended. Use lower versions at your own risk)
+* Forge 1.16.5-36.2.39+ | 1.20.2-48.1.0+ | NeoForge 21.1.176 (Recommended. Use lower versions at your own risk)
 
-* Pixelmon Reforged 9.1.9+ | 9.2.6+
+* Pixelmon Reforged 9.1.9+ | 9.2.6+ | 9.3.8+
 
 # Support
 
